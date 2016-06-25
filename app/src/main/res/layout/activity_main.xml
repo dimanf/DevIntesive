@@ -326,7 +326,7 @@
                         android:layout_height="wrap_content"
                         android:hint="Репозиторий"
                         android:inputType="textEmailAddress"
-                        android:text="@string/email"
+                        android:text="@string/github_repo"
                         android:enabled="false"
                         android:textColor="@color/black"
                         android:fontFamily="sans-serif-condensed"
