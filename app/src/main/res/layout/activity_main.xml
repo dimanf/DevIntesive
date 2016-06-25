@@ -50,6 +50,7 @@
                             android:textSize="@dimen/size_smaller_16"
                             android:paddingBottom="@dimen/spacing_medial_24"
                             android:textColor="@color/lightest_grey"
+                            android:fontFamily="sans-serif-condensed"
                             android:text="Рейтинг"/>
 
                     </LinearLayout>
@@ -87,6 +88,7 @@
                             android:textSize="@dimen/size_smaller_16"
                             android:paddingBottom="@dimen/spacing_medial_24"
                             android:textColor="@color/lightest_grey"
+                            android:fontFamily="sans-serif-condensed"
                             android:text="Написано строк кода"/>
 
                     </LinearLayout>
@@ -124,6 +126,7 @@
                             android:textSize="@dimen/size_smaller_16"
                             android:paddingBottom="@dimen/spacing_medial_24"
                             android:textColor="@color/lightest_grey"
+                            android:fontFamily="sans-serif-condensed"
                             android:text="Проектов"/>
 
                     </LinearLayout>
@@ -164,6 +167,7 @@
                         android:enabled="false"
                         android:textColor="@color/black"
                         android:textColorHint="@color/grey"
+                        android:fontFamily="sans-serif-condensed"
                         android:focusable="false"/>
                 </android.support.design.widget.TextInputLayout>
 
@@ -217,6 +221,7 @@
                         android:text="@string/email"
                         android:enabled="false"
                         android:textColor="@color/black"
+                        android:fontFamily="sans-serif-condensed"
                         android:focusable="false"/>
                 </android.support.design.widget.TextInputLayout>
 
@@ -270,6 +275,7 @@
                         android:text="https://vk.com/id2085035"
                         android:enabled="false"
                         android:textColor="@color/black"
+                        android:fontFamily="sans-serif-condensed"
                         android:focusable="false"/>
                 </android.support.design.widget.TextInputLayout>
 
@@ -323,6 +329,7 @@
                         android:text="@string/email"
                         android:enabled="false"
                         android:textColor="@color/black"
+                        android:fontFamily="sans-serif-condensed"
                         android:focusable="false"/>
                 </android.support.design.widget.TextInputLayout>
 
@@ -378,6 +385,7 @@
                             android:text="@string/about_text"
                             android:enabled="false"
                             android:textColor="@color/black"
+                            android:fontFamily="sans-serif-condensed"
                             android:focusable="false"/>
                     </android.support.design.widget.TextInputLayout>
                 </LinearLayout>
